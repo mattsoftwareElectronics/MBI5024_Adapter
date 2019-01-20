@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name MBI5024)(type Legacy)(uri /Users/matt/Documents/kicad/MBI5024/MBI5024.lib)(options "")(descr ""))
-  (lib (name conn_01x12_13-24)(type Legacy)(uri /Users/matt/Documents/kicad/MBI5024/library/conn_01x12_13-24.lib)(options "")(descr ""))
+  (lib (name MBI5024)(type Legacy)(uri /Users/matt/Documents/kicad/MBI5024_Adapter/MBI5024/MBI5024.lib)(options "")(descr ""))
+  (lib (name conn_01x12_13-24)(type Legacy)(uri /Users/matt/Documents/kicad/MBI5024_Adapter/library/conn_01x12_13-24.lib)(options "")(descr ""))
 )
