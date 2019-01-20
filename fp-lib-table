@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name MBI5024)(type KiCad)(uri ${KIPRJMOD}/library/MBI5024.pretty)(options "")(descr ""))
+  (lib (name MBI5024)(type KiCad)(uri ${KIPRJMOD}/MBI5024//MBI5024.pretty)(options "")(descr ""))
   (lib (name Connectors)(type KiCad)(uri ${KIPRJMOD}/library/Connectors.pretty)(options "")(descr ""))
 )
