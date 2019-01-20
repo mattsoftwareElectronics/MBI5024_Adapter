@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MBI5024_Footprint_Library)(type KiCad)(uri ${KIPRJMOD}/MBI5024_Footprint_Library.pretty)(options "")(descr ""))
+)
