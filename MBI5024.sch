@@ -55,52 +55,26 @@ Wire Wire Line
 Wire Wire Line
 	5000 3850 4900 3850
 Wire Wire Line
-	4900 3850 4900 4800
-Wire Wire Line
-	4900 4800 6000 4800
-Wire Wire Line
-	5000 3750 4800 3750
-Wire Wire Line
-	4800 3750 4800 4900
-Wire Wire Line
-	4800 4900 6100 4900
-Wire Wire Line
 	5000 3650 4700 3650
-Wire Wire Line
-	4700 3650 4700 5000
 Wire Wire Line
 	6900 2600 5500 2600
 Wire Wire Line
 	5500 2600 5500 2700
-Wire Wire Line
-	4700 5000 6200 5000
 $Comp
 L conn_01x12_13-24:Conn_01x12_13-24 J2
 U 1 1 5C458646
 P 7300 4250
 F 0 "J2" H 7380 4242 50  0000 L CNN
 F 1 "Conn_01x12_13-24" H 7380 4151 50  0000 L CNN
-F 2 "" H 7300 4250 50  0001 C CNN
+F 2 "Connectors:PinHeader_1x12_P2.54mm_Vertical_13-24" H 7300 4250 50  0001 C CNN
 F 3 "~" H 7300 4250 50  0001 C CNN
 	1    7300 4250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6000 4800 6000 4550
-Wire Wire Line
-	6100 4900 6100 4650
-Wire Wire Line
-	6200 5000 6200 4750
-Wire Wire Line
 	6900 2600 6900 4850
 Wire Wire Line
 	6900 4850 7100 4850
-Wire Wire Line
-	6200 4750 7100 4750
-Wire Wire Line
-	6100 4650 7100 4650
-Wire Wire Line
-	6000 4550 7100 4550
 Wire Wire Line
 	6000 4450 7100 4450
 Wire Wire Line
@@ -164,12 +138,6 @@ Wire Wire Line
 Wire Wire Line
 	4800 3150 3550 3150
 Wire Wire Line
-	5500 4650 5500 4700
-Wire Wire Line
-	5500 4700 4600 4700
-Wire Wire Line
-	4600 4700 4600 3450
-Wire Wire Line
 	4600 3450 3550 3450
 Wire Wire Line
 	3550 3050 5000 3050
@@ -203,4 +171,30 @@ Wire Wire Line
 	3550 2350 4300 2350
 Wire Wire Line
 	4300 2350 4300 1800
+Wire Wire Line
+	7100 4750 4900 4750
+Wire Wire Line
+	4900 4750 4900 3850
+Wire Wire Line
+	5000 3750 4800 3750
+Wire Wire Line
+	4800 3750 4800 4850
+Wire Wire Line
+	4800 4850 6800 4850
+Wire Wire Line
+	6800 4850 6800 4650
+Wire Wire Line
+	6800 4650 7100 4650
+Wire Wire Line
+	4700 3650 4700 4950
+Wire Wire Line
+	6700 4550 6700 4950
+Wire Wire Line
+	6700 4950 4700 4950
+Wire Wire Line
+	6700 4550 7100 4550
+Wire Wire Line
+	5500 4650 4600 4650
+Wire Wire Line
+	4600 4650 4600 3450
 $EndSCHEMATC
