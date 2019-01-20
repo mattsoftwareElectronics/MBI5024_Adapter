@@ -14,7 +14,7 @@ Comment3 "Licence: CC By 4.0"
 Comment4 "Author: Matt Paine"
 $EndDescr
 $Comp
-L MBI5024_Symbol_Library:MBI5024 U1
+L MBI5024:MBI5024 U1
 U 1 1 5C293359
 P 5500 3600
 F 0 "U1" H 5150 4450 50  0000 C CNN
