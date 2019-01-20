@@ -344,7 +344,7 @@
       (net 23 "Net-(J2-Pad2)"))
     (pad 24 smd rect (at -5.5 -3.81) (size 0.5 2) (layers F.Cu F.Paste F.Mask)
       (net 24 "Net-(J2-Pad1)"))
-    (model "${KIPRJMOD}/MBI5024 Adapter 3D Model/MBI5024.wrl"
+    (model ${KIPRJMOD}/library/3d/MBI5024.wrl
       (at (xyz 0 0 0))
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz 0 0 0))
